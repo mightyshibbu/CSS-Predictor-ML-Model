@@ -1,0 +1,51 @@
+selector,padding,font-size,"font-family_""sans-serif""",color_ #ffdf00,color_ #ffffff,color_ red,color_#000000
+.auction-container,20.0,16,False,False,True,False,False
+.timer,0.0, 24,True,False,True,False,False
+.timer.glow,0.0,16,True,False,False,False,True
+.player-card,20.0,16,True,False,False,False,True
+.player-card img,0.0,16,True,False,False,False,True
+.player-card div,0.0, 14,True,True,False,False,False
+.player-card .slab,10.0, 24,True,True,False,False,False
+.player-card .player-name,0.0, 18,True,False,True,False,False
+.player-card .important-text,0.0, 16,True,True,False,False,False
+.player-card .bid-info,0.0,16,True,False,False,False,True
+.player-card .bid-info div,0.0, 16,True,False,True,False,False
+.bid-info,20.0,16,True,False,False,False,True
+.bid-info div,0.0, 18,True,True,False,False,False
+.owner-card,15.0,16,True,False,False,False,True
+.owner-card div,0.0, 16,True,True,False,False,False
+.owner-card .bid-options,0.0,16,True,False,False,False,True
+.owner-card .bid-options span,5.0,16,True,True,False,False,False
+.owner-card .bid-options span:hover,0.0,16,True,False,True,False,False
+.owner-card .bid-options span.line-through,0.0,16,True,False,False,True,False
+.owner-card .bid-options span.not-allowed,0.0,16,True,False,False,False,True
+button,10.0,16,True,False,False,False,False
+button:hover,0.0,16,True,False,False,False,True
+button:disabled,0.0,16,True,False,False,False,True
+.control-buttons,0.0,16,True,False,False,False,True
+.control-buttons button,0.0, large,True,False,False,False,True
+.auction-container,20.0,16,False,False,True,False,False
+.timer,0.0, 24,True,False,True,False,False
+.timer.glow,0.0,16,True,False,False,False,True
+.player-card,20.0,16,True,False,False,False,True
+.player-card img,0.0,16,True,False,False,False,True
+.player-card div,0.0, 14,True,True,False,False,False
+.player-card .slab,10.0, 24,True,True,False,False,False
+.player-card .player-name,0.0, 18,True,False,True,False,False
+.player-card .important-text,0.0, 16,True,True,False,False,False
+.player-card .bid-info,0.0,16,True,False,False,False,True
+.player-card .bid-info div,0.0, 16,True,False,True,False,False
+.bid-info,20.0,16,True,False,False,False,True
+.bid-info div,0.0, 18,True,True,False,False,False
+.owner-card,15.0,16,True,False,False,False,True
+.owner-card div,0.0, 16,True,True,False,False,False
+.owner-card .bid-options,0.0,16,True,False,False,False,True
+.owner-card .bid-options span,5.0,16,True,True,False,False,False
+.owner-card .bid-options span:hover,0.0,16,True,False,True,False,False
+.owner-card .bid-options span.line-through,0.0,16,True,False,False,True,False
+.owner-card .bid-options span.not-allowed,0.0,16,True,False,False,False,True
+button,10.0,16,True,False,False,False,False
+button:hover,0.0,16,True,False,False,False,True
+button:disabled,0.0,16,True,False,False,False,True
+.control-buttons,0.0,16,True,False,False,False,True
+.control-buttons button,0.0, large,True,False,False,False,True

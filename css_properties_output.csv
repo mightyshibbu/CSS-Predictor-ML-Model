@@ -1,0 +1,51 @@
+selector,display,padding,font-family,color,font-size
+.auction-container, flex, 20px," ""Roboto"", sans-serif", #ffffff,
+.timer,,,, #ffffff, 24px
+.timer.glow,,,,,
+.player-card,, 20px,,,
+.player-card img,,,,,
+.player-card div,,,, #ffdf00, 14px
+.player-card .slab,, 10px,, #ffdf00, 24px
+.player-card .player-name,,,, #ffffff, 18px
+.player-card .important-text,,,, #ffdf00, 16px
+.player-card .bid-info, flex,,,,
+.player-card .bid-info div,,,, #ffffff, 16px
+.bid-info, flex, 20px,,,
+.bid-info div,,,, #ffdf00, 18px
+.owner-card,, 15px,,,
+.owner-card div,,,, #ffdf00, 16px
+.owner-card .bid-options,,,,,
+.owner-card .bid-options span,, 5px 10px,, #ffdf00,
+.owner-card .bid-options span:hover,,,, #ffffff,
+.owner-card .bid-options span.line-through,,,, red,
+.owner-card .bid-options span.not-allowed,,,,,
+button,, 10px 15px,, #ffdd00,
+button:hover,,,,,
+button:disabled,,,,,
+.control-buttons, flex,,,,
+.control-buttons button,,,,, large
+.auction-container, flex, 20px," ""Roboto"", sans-serif", #ffffff,
+.timer,,,, #ffffff, 24px
+.timer.glow,,,,,
+.player-card,, 20px,,,
+.player-card img,,,,,
+.player-card div,,,, #ffdf00, 14px
+.player-card .slab,, 10px,, #ffdf00, 24px
+.player-card .player-name,,,, #ffffff, 18px
+.player-card .important-text,,,, #ffdf00, 16px
+.player-card .bid-info, flex,,,,
+.player-card .bid-info div,,,, #ffffff, 16px
+.bid-info, flex, 20px,,,
+.bid-info div,,,, #ffdf00, 18px
+.owner-card,, 15px,,,
+.owner-card div,,,, #ffdf00, 16px
+.owner-card .bid-options,,,,,
+.owner-card .bid-options span,, 5px 10px,, #ffdf00,
+.owner-card .bid-options span:hover,,,, #ffffff,
+.owner-card .bid-options span.line-through,,,, red,
+.owner-card .bid-options span.not-allowed,,,,,
+button,, 10px 15px,, #ffdd00,
+button:hover,,,,,
+button:disabled,,,,,
+.control-buttons, flex,,,,
+.control-buttons button,,,,, large
