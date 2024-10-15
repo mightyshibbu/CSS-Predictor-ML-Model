@@ -1,4 +1,4 @@
-🛠️ CSS Padding Prediction with Linear Regression
+🛠️ #CSS Padding Prediction with Linear Regression
 Predict CSS padding values using a simple, yet effective linear regression model. This project demonstrates how to use Python’s pandas, scikit-learn, and tinycss2 for parsing, preprocessing, and predicting CSS attributes.
 
 🚀 Workflow:
