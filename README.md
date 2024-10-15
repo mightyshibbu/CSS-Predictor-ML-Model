@@ -17,7 +17,7 @@ tinycss2
 bash
 Copy code
 ## Clone and install dependencies
-git clone https://github.com/yourusername/css-padding-prediction.git
+git clone https://github.com/mightyshibbu/css-padding-prediction.git
 cd css-padding-prediction
 pip install -r requirements.txt
 
